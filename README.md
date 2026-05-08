@@ -11,6 +11,17 @@ This repository contains Terraform configuration to provision and manage a Googl
 - service_accounts.tf — Service account creation and IAM bindings
 - variables.tf — Variable definitions and defaults
 
+.
+├── apis.tf
+├── backend.tf
+├── main.tf
+├── networking.tf
+├── providers.tf
+├── README.md
+├── service_accounts.tf
+└── variables.tf
+
+
 ## Prerequisites
 - Terraform 1.0+ installed
 - gcloud CLI installed and authenticated to the target GCP project
@@ -62,5 +73,6 @@ Note: Use a secure tfvars file (excluded from VCS) for credentials or sensitive 
 Pythian
 
 ---
+
 
 
