@@ -59,8 +59,8 @@ Note: Use a secure tfvars file (excluded from VCS) for credentials or sensitive 
 - Keep terraform formatting consistent: `terraform fmt` before committing.
 
 ## License & Contact
-Specify your preferred license here (e.g., MIT) and a contact/maintainer email or team.
+Pythian
 
 ---
 
-(Generated README — customize project-specific instructions, backend bucket, and roles before use.)
+
