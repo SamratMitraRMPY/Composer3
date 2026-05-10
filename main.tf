@@ -17,7 +17,7 @@ resource "google_composer_environment" "composer3" {
       }
 
       pypi_packages = {
-        apache-beam = "==2.61.0"
+        
         pymssql     = "==2.3.2"
         pandas      = "==2.2.3"
       }
